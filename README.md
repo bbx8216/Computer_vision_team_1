@@ -30,7 +30,7 @@ YOLO v1 : https://arxiv.org/abs/1506.02640
 
 강민기 : 
 
-김민규 : Minkyu Kim폴더에 있는 YOLO_test.ipynb와 구글 드라이브()에 있는 yolo-minkyuKim.h5를 다운받은 뒤 두 파일을 같은 위치에 놓고 YOLO_test.ipynb에 있는 블록을 위에서부터 차례대로 실행시키시거나  load_YOLO()에 있는 YOLO.load_weights()의 파일 경로를 yolo-minkyuKim.h5의 경로에 맞게 수정하신 뒤 위에서부터 차례대로 실행시키시면 됩니다.
+김민규 : Minkyu Kim폴더에 있는 YOLO_test.ipynb와 구글 드라이브(https://drive.google.com/file/d/18wl62z2sU3O6NUl45K7iYSzWnGlpUYzV/view?usp=sharing)에 있는 yolo-minkyuKim.h5를 다운받은 뒤 두 파일을 같은 위치에 놓고 YOLO_test.ipynb에 있는 블록을 위에서부터 차례대로 실행시키시거나  load_YOLO()에 있는 YOLO.load_weights()의 파일 경로를 yolo-minkyuKim.h5의 경로에 맞게 수정하신 뒤 위에서부터 차례대로 실행시키시면 됩니다.
 
 김태윤 : 
 
