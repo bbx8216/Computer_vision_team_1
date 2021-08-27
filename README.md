@@ -22,7 +22,7 @@ YOLO v1 : https://arxiv.org/abs/1506.02640
 
 ### 파이토치를 이용해 구현 - 김태윤, 이승연
 
-김태윤 +  이승연 : Overfeat을 backbone으로 사용했습니다.
+김태윤 + 이승연 : 파이토치로 구현된 DarkNet을 backbone으로 사용했습니다. 
 
 ## 구현 모델 테스트 방법
 
